@@ -1,0 +1,17 @@
+[packages]
+black = "*"
+flake8 = "*"
+isort = "*"
+loguru = "*"
+pip = "*"
+python-dotenv = "*"
+tqdm = "*"
+typer = "*"
+"template" ={editable = true, path = "."}
+jupyter = "*"
+pandas = "*"
+seaborn = "*"
+numpy = "*"
+
+[requires]
+python_version = "3.10"
